@@ -1,0 +1,73 @@
+
+#navigation {
+    background: #454647; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #454647, #337ab7); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #337ab7, #454647); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#header {
+
+    background: #38393a; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #38393a, #38393a); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #38393a, #38393a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#top-header {
+
+
+    background: #454647; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #454647, #337ab7); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #337ab7, #454647); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#footer {
+    background: #454647; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #454647, #454647); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #454647, #454647); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    color: #FFFFFF;
+}
+
+#bottom-footer {
+    background: #454647; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #454647, #337ab7); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #337ab7, #454647); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.footer-links li a {
+    color: #FFF;
+}
+
+.mainn-raised {
+
+    margin: -7px 0px 0px;
+    border-radius: 6px;
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+
+}
+
+.glyphicon {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.glyphicon-chevron-left:before {
+    content: "\f053"
+}
+
+.glyphicon-chevron-right:before {
+    content: "\f054"
+}
